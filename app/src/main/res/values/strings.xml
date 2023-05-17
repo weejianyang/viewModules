@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">viewModules</string>
+    <string name="tv">~My Modules~</string>
+    <string name="ed"></string>
+    <string name="tv1">o         C110 Programming Fundamentals I</string>
+    <string name="tv2">o         C203 Web AppIn Development in php</string>
+    <string name="tv3">o         C206 Software Development Process</string>
+    <string name="tv4">o         C218 UI/UX Design for Apps</string>
+    <string name="tv5">o         C346 Mobile App Development</string>
+    <string name="tv6">o         G953 Life skills III</string>
+
+
+</resources>
